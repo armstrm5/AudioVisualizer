@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Dec 14 13:18:32 2018
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : FFTDIsplay
+Top-level Entity Name : FFTDisplay
+Family : Cyclone IV E
+Total logic elements : 10,167
+    Total combinational functions : 8,381
+    Dedicated logic registers : 7,853
+Total registers : 7853
+Total pins : 85
+Total virtual pins : 0
+Total memory bits : 634,240
+Embedded Multiplier 9-bit elements : 56
+Total PLLs : 1
